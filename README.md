@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on some data analisys<br>🌱 I’m currently learning data science<br>⚡ Fun fact Nautico is the greatest team in the world
+🔭 I’m currently working on some data projects<br>⚡ I’m currently learning some data and backend stuff<br>
 
 
 ## 🌐 Socials:
